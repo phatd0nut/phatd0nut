@@ -1,16 +1,24 @@
-## Hi there 👋
+## 👋 Hello, I'm [Enor]!  
+I’m a developer and designer passionate about building functional, user-friendly applications.
 
-<!--
-**phatd0nut/phatd0nut** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 👨‍💻 Languages
+- JavaScript  
+- PHP  
+- Python  
+- TypeScript  
 
-Here are some ideas to get you started:
+### ⚡ Frameworks
+- React  
+- Next.js  
+- Express.js  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🎨 Design Tools
+- Illustrator  
+- Photoshop  
+- Figma  
+- XD  
+- FL Studio  
+
+💼 Open to work and collaborations—let’s build something great together!  
+
+🌟 Always eager to learn, create, and contribute to exciting projects!  
