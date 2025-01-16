@@ -1,4 +1,4 @@
-## 👋 Hello, I'm [Enor]!  
+## 👋 Hello, I'm **Enor**!  
 I’m a developer and designer passionate about building functional, user-friendly applications.
 
 ### 👨‍💻 Languages
