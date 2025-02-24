@@ -5,7 +5,8 @@ I’m a developer and designer passionate about building functional, user-friend
 - JavaScript  
 - PHP  
 - Python  
-- TypeScript  
+- TypeScript
+- C#
 
 ### ⚡ Frameworks & Runtime
 - Node.js  
