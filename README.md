@@ -5,14 +5,18 @@ I’m a developer and designer passionate about building functional, user-friend
 - JavaScript  
 - PHP  
 - Python  
-- TypeScript
-- C#
+- TypeScript  
+- C#  
 
 ### ⚡ Frameworks & Runtime
 - Node.js  
 - React  
 - Next.js  
 - Express.js  
+
+### 📦 Content Management & APIs
+- Hygraph (Headless CMS)
+- Rest API
 
 ### 🎨 Design Tools
 - Illustrator  
